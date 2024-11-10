@@ -1,0 +1,209 @@
+{
+  "success": true,
+  "credits_left": 17,
+  "rate_limit_left": 17,
+  "person": {
+    "publicIdentifier": "mohdlabib",
+    "linkedInIdentifier": "ACoAADyy0NkBY6mAs1Ackt1gGIeAjLWg2t3G8mM",
+    "memberIdentifier": "1018351833",
+    "linkedInUrl": "https://www.linkedin.com/in/mohdlabib",
+    "firstName": "Mohd. Abulkhairi",
+    "lastName": "Labib",
+    "headline": "IT Student | Web Developer | UI/UX Designer | IoT Enthusiast | Software Developer | Tech Explorer",
+    "location": "Pekanbaru, Riau, Indonesia",
+    "summary": "Halo semuanya! Saya Mohd. Abulkhairi Labib, mahasiswa Teknik Informatika di Universitas Riau. Saya sangat suka menjelajahi dunia teknologi, inovasi, dan tentunya, terus belajar hal-hal baru.\n\nSaat ini, saya sedang mengikuti program Bangkit yang dipimpin oleh Google. Program ini sangat menarik dan membantu saya mengasah keterampilan di bidang teknologi. Saya suka tantangan, terutama ketika harus menyelesaikan masalah rumit dan mencari solusi kreatif. Baik itu di pengembangan web, desain UI/UX, atau eksplorasi Internet of Things (IoT), saya berusaha untuk terus belajar dan berkembang.\n\nSelain keterampilan teknis, saya juga menikmati dunia desain dan visualisasi. Saya percaya, kombinasi kreativitas dan kemampuan teknis bisa menciptakan pengalaman yang menyenangkan bagi pengguna.\n\nSaya juga aktif di komunitas, berusaha untuk membangun hubungan baik dengan teman-teman seangkatan. Saya percaya bahwa setiap pengalaman, baik sukses maupun gagal, memberikan pelajaran berharga dalam perjalanan hidup saya.\n\nAyo, mari kita terhubung! Saya terbuka untuk eksplorasi ide-ide baru, mendukung komunitas, dan bersama-sama menciptakan masa depan teknologi yang lebih baik!",
+    "photoUrl": "https://media.licdn.com/dms/image/v2/D5603AQHdZFYOwXhkOQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1730136256787?e=1736985600&v=beta&t=HsE45EYke7XwWm3R_NA8Vz6Q3H1yPnZ_6ZRxzbMelb0",
+    "backgroundUrl": "https://media.licdn.com/dms/image/v2/D5616AQFcE4r2wj64OA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1728705291716?e=1736985600&v=beta&t=1rMP5hBlj-c-A6ba6EPf7Or_qEskVI-QoJgjHsOiiFs",
+    "openToWork": false,
+    "premium": false,
+    "creationDate": {
+      "month": 7,
+      "year": 2022
+    },
+    "followerCount": 341,
+    "positions": {
+      "positionsCount": 2,
+      "positionHistory": [
+        {
+          "title": "Cloud Computing Cohort",
+          "companyName": "Bangkit Academy led by Google, Tokopedia, Gojek, & Traveloka",
+          "companyLocation": "Remote",
+          "description": "Bangkit Academy is a free training program designed to help Indonesian students prepare for the challenges of careers in technology. This program is initiated by Google, GoTo, and Traveloka.",
+          "startEndDate": {
+            "start": {
+              "month": 9,
+              "year": 2024
+            },
+            "end": null
+          },
+          "contractType": "Part-time",
+          "companyLogo": "https://media.licdn.com/dms/image/v2/C560BAQEVREspL4ipDQ/company-logo_400_400/company-logo_400_400/0/1630661916225/bangkit_academy_logo?e=1739404800&v=beta&t=IA7mQtOpbAglblVMUNvGGCE6Kj2a32OmnhVXq6F46oE",
+          "linkedInUrl": "https://www.linkedin.com/company/31509534/",
+          "linkedInId": "31509534"
+        },
+        {
+          "title": "Research Staff",
+          "companyName": "Engineering Robotics Club",
+          "companyLocation": "Pekanbaru, Riau, Indonesia · On-site",
+          "description": "Engineering Robotics Club is a community dedicated to advancing robotics and Internet of Things (IoT) technologies. Our goal is to foster innovation and collaboration among members through hands-on projects, workshops, and knowledge sharing.",
+          "startEndDate": {
+            "start": {
+              "month": 5,
+              "year": 2023
+            },
+            "end": null
+          },
+          "contractType": "Part-time",
+          "companyLogo": "https://media.licdn.com/dms/image/v2/C560BAQGwTdAcbbwoMQ/company-logo_400_400/company-logo_400_400/0/1668341409975?e=1739404800&v=beta&t=GT_fNNHXjjh5D79dZZQyLK884OsdBKonUivSGGTo1Dg",
+          "linkedInUrl": "https://www.linkedin.com/company/89795446/",
+          "linkedInId": "89795446"
+        }
+      ]
+    },
+    "schools": {
+      "educationsCount": 1,
+      "educationHistory": [
+        {
+          "degreeName": "Bachelor's degree, Informatika",
+          "fieldOfStudy": "Bachelor's degree, Informatika",
+          "description": "Skills: PHP · Programming · Node.js · Full-Stack Development · Front-end Coding",
+          "linkedInUrl": null,
+          "schoolLogo": null,
+          "schoolName": "The University of Riau",
+          "startEndDate": {
+            "start": {
+              "month": 8,
+              "year": 2022
+            },
+            "end": {
+              "month": 8,
+              "year": 2025
+            }
+          }
+        }
+      ]
+    },
+    "skills": [
+      "TensorFlow",
+      "Cloud Storage",
+      "VM",
+      "MySQL",
+      "Laravel",
+      "Artificial Intelligence (AI)",
+      "REST APIs",
+      "Postman API",
+      "Bun.js",
+      "Object-Oriented Programming (OOP)",
+      "GitHub",
+      "Git",
+      "Gitlab",
+      "Git BASH",
+      "Logic Programming",
+      "Critical Thinking",
+      "Cascading Style Sheets (CSS)",
+      "Google Cloud Platform (GCP)",
+      "Web Development",
+      "docker"
+    ],
+    "languages": [],
+    "recommendations": {
+      "recommendationsCount": 0,
+      "recommendationHistory": []
+    },
+    "certifications": {
+      "certificationsCount": 10,
+      "certificationHistory": [
+        {
+          "name": "Menjadi Google Cloud Engineer",
+          "organizationName": "Dicoding Indonesia",
+          "organizationUrl": null,
+          "issuedDate": "Issued Oct 2024 · Expires Oct 2027"
+        },
+        {
+          "name": "Memulai Dasar Pemrograman untuk Menjadi Pengembang Software",
+          "organizationName": "Dicoding Indonesia",
+          "organizationUrl": null,
+          "issuedDate": "Issued Sep 2024 · Expires Sep 2027"
+        },
+        {
+          "name": "Pengenalan ke Logika Pemrograman (Programming Logic 101)",
+          "organizationName": "Dicoding Indonesia",
+          "organizationUrl": null,
+          "issuedDate": "Issued Sep 2024 · Expires Sep 2027"
+        },
+        {
+          "name": "Belajar Penerapan Machine Learning dengan Google Cloud",
+          "organizationName": "Dicoding Indonesia",
+          "organizationUrl": null,
+          "issuedDate": "Issued Jun 2024 · Expires Nov 2027"
+        },
+        {
+          "name": "Kontes Robot Indonesia (KRI) Tingkat Wilayah Tahun 2024",
+          "organizationName": "Pusat Prestasi Nasional",
+          "organizationUrl": null,
+          "issuedDate": "Issued May 2024 · Expired Jun 2024"
+        },
+        {
+          "name": "Belajar Dasar AI",
+          "organizationName": "Dicoding Indonesia",
+          "organizationUrl": null,
+          "issuedDate": "Issued Sep 2022 · Expires Sep 2027"
+        },
+        {
+          "name": "Belajar Dasar Git dengan GitHub",
+          "organizationName": "Dicoding Indonesia",
+          "organizationUrl": null,
+          "issuedDate": "Issued Sep 2022 · Expires Sep 2027"
+        },
+        {
+          "name": "Belajar Dasar Pemrograman JavaScript",
+          "organizationName": "Dicoding Indonesia",
+          "organizationUrl": null,
+          "issuedDate": "Issued Sep 2022 · Expires Sep 2027"
+        },
+        {
+          "name": "Belajar Dasar Pemrograman Web",
+          "organizationName": "Dicoding Indonesia",
+          "organizationUrl": null,
+          "issuedDate": "Issued Sep 2022 · Expires Sep 2027"
+        },
+        {
+          "name": "Belajar Membuat Aplikasi Back-End untuk Pemula dengan Google Cloud",
+          "organizationName": "Dicoding Indonesia",
+          "organizationUrl": null,
+          "issuedDate": "Issued Sep 2022 · Expires Sep 2027"
+        }
+      ]
+    }
+  },
+  "company": {
+    "linkedInId": "31509534",
+    "name": "Bangkit Academy led by Google, Tokopedia, Gojek, & Traveloka",
+    "universalName": "bangkit-academy",
+    "linkedInUrl": "https://www.linkedin.com/company/31509534",
+    "employeeCount": 5349,
+    "followerCount": 56558,
+    "employeeCountRange": {
+      "start": 10001,
+      "end": 1
+    },
+    "websiteUrl": "https://g.co/bangkit",
+    "tagline": "Bangkit is a Google-led academy designed to produce high-caliber tech talents for Indonesia.  ",
+    "description": "Bangkit is a unique career readiness program led by Google and delivered with support from industry experts from our industry partners like Gojek, GoTo  and Google. The program is designed to provide the participants with first-hand exposure to real-world practitioners and prepare them with relevant skills for a successful career in leading tech companies.",
+    "industry": "IT Services and IT Consulting",
+    "phone": null,
+    "specialities": [],
+    "headquarter": {
+      "city": "jakarta",
+      "country": "ID",
+      "postalCode": null,
+      "geographicArea": null,
+      "street1": null,
+      "street2": null
+    },
+    "logo": "https://media.licdn.com/dms/image/v2/C560BAQEVREspL4ipDQ/company-logo_400_400/company-logo_400_400/0/1630661916225/bangkit_academy_logo?e=1739404800&v=beta&t=IA7mQtOpbAglblVMUNvGGCE6Kj2a32OmnhVXq6F46oE",
+    "foundedOn": {
+      "year": 2020
+    }
+  }
+}
