@@ -32,7 +32,7 @@ app.get('/data', (req, res) => {
 });
 
 updateData();
-cron.schedule('0 */28 * * *', updateData);
+cron.schedule('0 0 * * *', updateData);
 
 app.listen(PORT, () => {
   console.log(`Server berjalan pada http://localhost:${PORT}`);
